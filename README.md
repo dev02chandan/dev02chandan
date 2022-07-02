@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/70141886/125061604-20e82600-e0cb-11eb-9b4d-1130e9b35019.png)
+
 
 [![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev02chandan&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
