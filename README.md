@@ -2,6 +2,11 @@
 
 [![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev02chandan&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+- 🌱 I’m currently learning Development and Machine Learning
+- 📫 How to reach me: www.linkedin.com/in/dev-chandan
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I am currently exploring a Spiritual Path✨ (and sharing it too!)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev02chandan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
